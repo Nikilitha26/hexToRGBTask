@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(245, 191, 245);
+    position: relative;
+    text-align: center;
+}
+input{
+    font-style: italic;
+    width: 250px;
+    position: relative;
+    text-align: center;
+    height: 25px;
+
+}
+
+button{
+    background-color: rgb(187, 43, 187);
+    color: white;
+    position: relative;
+    text-align: center;
+}
+p{
+    font-size: large;
+    color: white;
+    text-align: center;
+    position: relative;
+}
+
+h1{
+    color: white;
+    position: relative;
+    text-align: center;
+}
